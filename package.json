@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Define variables in markdown for vuepress 2",
   "main": "index.js",
+  "files": [
+    "index.js"
+  ],
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
