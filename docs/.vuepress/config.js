@@ -23,7 +23,7 @@ module.exports = {
       // NavbarItem
       {
         text: CONSTS.__VERSION__,
-        link: 'https://github.com/justforuse/vuepress-plugin-markdown-define2',
+        link: 'https://github.com/justforuse/vuepress-plugin-markdown-define2/tags',
       },
     ]
   }),
